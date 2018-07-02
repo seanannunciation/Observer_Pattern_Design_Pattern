@@ -1,1 +1,0 @@
-# Observer_Pattern_Design_Pattern
